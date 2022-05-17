@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="Premier Plugin">
+
+  <main>
+    <test arg="Premier" class="bluewave.data.Premier" method="test"/>
+    <load arg="Premier" class="bluewave.data.Premier" method="load"/>
+    <download arg="Premier" class="bluewave.data.Premier" method="download"/>
+  </main>
+
+</plugin>
